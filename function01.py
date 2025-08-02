@@ -1,2 +1,2 @@
-def printStr(text: str) -> None:
+def printSt(text: str) -> None:
     print(f"hello {text}!")
